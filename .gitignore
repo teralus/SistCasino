@@ -1,0 +1,22 @@
+# Ignorar archivos de conexión con credenciales
+conexion.php
+conexion_qbiz.php
+
+# Ignorar configuraciones de entorno y archivos sensibles
+/config/config.php
+
+# Archivos generados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo o temporales
+*.log
+*.tmp
+*.bak
+
+# Archivos de texto no necesarios para el proyecto
+*.txt
+
+# Archivos de documentos
+*.docx
+
